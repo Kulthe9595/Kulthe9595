@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **something interesting**
 
-- 👨‍💻 All of my projects are available at **[Here](https://github.com/Kulthe9595?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Here](https://github.com/Kulthe9595?tab=repositories)**
 
 - 💬 Ask me about **Anything**
 
