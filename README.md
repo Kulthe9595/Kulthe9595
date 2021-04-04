@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kulthe Shubham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulthe9595&label=Profile%20views&color=0e75b6&style=flat" alt="kulthe9595" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulthe9595" alt="kulthe9595" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/kulthe9595" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kulthe9595?logo=twitter&style=for-the-badge" alt="https://twitter.com/kulthe9595" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kulthe9595" target="blank"><img src="https://img.shields.io/twitter/follow/kulthe9595?logo=twitter&style=for-the-badge" alt="kulthe9595" /></a> </p>
 
-- 🔭 I’m currently working on **Third Year Information Technology**
+- 🔭 I’m currently in **Third Year, Information Technology**
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **Python,Android, Swift**
 
-- 👯 I’m looking to collaborate on **on something interesting**
+- 👯 I’m looking to collaborate on **something interesting**
 
-- 👨‍💻 All of my projects are available at Here [https://github.com/Kulthe9595?tab=repositories](https://github.com/Kulthe9595?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Here](https://github.com/Kulthe9595?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
@@ -21,7 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/kulthe9595" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/kulthe9595" height="30" width="40" /></a>
+<a href="https://twitter.com/kulthe9595" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kulthe9595" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-kulthe-504295170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shubham-kulthe-504295170/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/kulthe9595" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://dribbble.com/kulthe9595" height="30" width="40" /></a>
+<a href="https://medium.com/@kulthe9595" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kulthe9595" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucduz4wea4ik5srexmbuwesa/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucduz4wea4ik5srexmbuwesa/videos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
